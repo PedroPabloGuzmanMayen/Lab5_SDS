@@ -1,0 +1,5 @@
+ipykernel
+pandas
+scapy
+numpy
+matplotlib
